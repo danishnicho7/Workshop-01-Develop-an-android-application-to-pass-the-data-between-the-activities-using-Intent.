@@ -27,8 +27,8 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 ## PROGRAM:
 ```
-Developed by: JEYA KRISHNA S J
-Registeration Number : 212222040064
+Name: DANISH NICHO N
+Reg no: 212222040030
 ```
 MainActivity.java:
 ```
@@ -263,7 +263,7 @@ AndroidManifest.xml:
 
 ![mad workshop jpg1](https://github.com/user-attachments/assets/8830e718-22cc-4f53-844d-bbbf13e701b4)
 
-![mad workshop](https://github.com/user-attachments/assets/de70fc8a-f673-437d-84ea-678df007f3c2)
+![2d0b8864-ca7a-41c4-97f0-196c55e8f2cb](https://github.com/user-attachments/assets/c8f9e1f5-f0b0-4453-bcd5-6c37e592b6d6)
 
 
 ## RESULT:
